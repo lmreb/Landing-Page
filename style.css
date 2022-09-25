@@ -1,8 +1,10 @@
 body {
     font-family: "Lucida Console", "Courier New", monospace;
-    padding: 6px;
+    padding: 16px;
     display: flex;
     flex-direction: column;
+    margin: 0;
+    align-items: center;
 }
 
 ul {
