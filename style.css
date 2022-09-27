@@ -39,12 +39,13 @@ a {
 
 .hero-text {
     color: #f9faf8;
-    font-weight: extra-bold;
+    font-weight: 1000;
     font-size: 48px;
 }
 
 .hero {
     display: flex;
+    justify-content: center;
     padding: 90px 0;
 }
 
