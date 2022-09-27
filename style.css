@@ -37,16 +37,21 @@ a {
     justify-content: space-between;
 }
 
-.hero-text {
-    color: #f9faf8;
-    font-weight: 1000;
-    font-size: 48px;
-}
-
 .hero {
     display: flex;
     justify-content: center;
     padding: 90px 0;
+}
+
+.hero-right > img {
+    width: 800px;
+    height: 300px;
+}
+
+.hero-text {
+    color: #f9faf8;
+    font-weight: 1000;
+    font-size: 48px;
 }
 
 .footer {
