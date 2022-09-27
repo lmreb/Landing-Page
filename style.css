@@ -17,3 +17,20 @@ ul {
 a {
     text-decoration: none;
 }
+
+a, .subtext, .footer {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.top-header, .footer {
+    background-color: #1f2937;
+}
+
+
+
+.hero-text {
+    color: #f9faf8;
+    font-weight: extra-bold;
+    font-size: 48px;
+}
