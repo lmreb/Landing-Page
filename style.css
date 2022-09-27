@@ -7,6 +7,8 @@ body {
 
 .top-header {
     align-items: center;
+    padding: 18px;
+
 }
 
 ul {
@@ -30,10 +32,6 @@ a {
     background-color: #1f2937;
 }
 
-.top-header {
-    padding: 18px;
-}
-
 .top-link {
     display: flex;
     justify-content: space-between;
@@ -46,6 +44,7 @@ a {
 }
 
 .hero {
+    display: flex;
     padding: 90px 0;
 }
 
