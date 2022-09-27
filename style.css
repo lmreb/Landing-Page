@@ -4,7 +4,6 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
-    align-items: center;
 }
 
 ul {
@@ -33,4 +32,11 @@ a, .subtext, .footer {
     color: #f9faf8;
     font-weight: extra-bold;
     font-size: 48px;
+}
+
+.footer {
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
