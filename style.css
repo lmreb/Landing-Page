@@ -38,18 +38,26 @@ a {
 
 .hero {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     padding: 90px 0;
     gap: 54px;
 }
 
 .hero-left {
+    display: flex;
+    flex-direction: column;
     width: 500px;
+    flex: 1 1 auto;
 }
 
 .hero-right img {
     width: 600px;
     height: 300px;
+}
+
+.hero-right {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .hero-text {
