@@ -5,6 +5,10 @@ body {
     margin: 0;
 }
 
+.top-header {
+    align-items: center;
+}
+
 ul {
     list-style: none;
     padding: 0;
@@ -26,6 +30,10 @@ a {
     background-color: #1f2937;
 }
 
+.top-header {
+    padding: 18px;
+}
+
 .top-link {
     display: flex;
     justify-content: space-between;
@@ -35,6 +43,10 @@ a {
     color: #f9faf8;
     font-weight: extra-bold;
     font-size: 48px;
+}
+
+.hero {
+    padding: 90px 0;
 }
 
 .footer {
