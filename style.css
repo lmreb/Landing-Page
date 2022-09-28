@@ -70,6 +70,10 @@ a {
     font-size: 48px;
 }
 
+.button {
+    background-color: #3882f6;
+}
+
 .footer {
     height: 72px;
     display: flex;
