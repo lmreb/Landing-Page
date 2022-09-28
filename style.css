@@ -7,7 +7,12 @@ body {
 
 .top-header {
     align-items: center;
-    padding: 18px 126px;
+    justify-content: space-between;
+    padding: 18px 108px;
+}
+
+#top-left {
+    font-weight: 800;
 }
 
 ul {
@@ -57,7 +62,6 @@ a {
 
 .hero-right {
     display: flex;
-    justify-content: flex-end;
 }
 
 .hero-text {
