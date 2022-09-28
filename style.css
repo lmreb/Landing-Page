@@ -72,6 +72,11 @@ a {
 
 .button {
     background-color: #3882f6;
+    padding: 6px 18px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 800;
+    border-style: none;
 }
 
 .footer {
