@@ -103,12 +103,16 @@ a {
 .subtext {
     color: #1f2937;
     justify-content: center;
+    flex-wrap: wrap;
+    width: 180px;
 }
 
 .info > img {
     height: 180px;
     width: 180px;
     flex: 1 1 auto;
+    border-radius: 18px;
+    border: 2px solid #3882f6;
 }
 
 .info {
