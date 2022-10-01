@@ -103,7 +103,7 @@ a {
     color: #1f2937;
 }
 
-.info-container.info {
+.subtext {
     color: #1f2937;
     justify-content: center;
 }
@@ -111,6 +111,7 @@ a {
 .info > img {
     height: 180px;
     width: 180px;
+    flex: 1 1 auto;
 }
 
 .info {
