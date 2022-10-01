@@ -83,7 +83,10 @@ a {
 /* SECTION 2 */
 
 .random-info {
+    display: flex;
+    flex-direction: column;
     padding: 48px 0;
+    gap: 60px;
 }
 
 .random-title, .info-container {
