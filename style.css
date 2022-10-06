@@ -144,9 +144,25 @@ a {
     text-align: end;
 }
 
-
 /* SECTION 4 */
 
+.action {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    display: flex;
+}
+
+.top-action {
+    font-weight: bold;
+}
+
+.below.button {
+    border-color: white;
+    border-style: solid;
+}
+
+
+/* FOOTER */
 .footer {
     background-color: #1f2937;
     height: 72px;
