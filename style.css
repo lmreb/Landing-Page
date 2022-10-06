@@ -149,11 +149,19 @@ a {
 .action {
     background-color: #3882f6;
     color: #e5e7eb;
+    width: max-content;
     display: flex;
+    align-items: center;
+    align-self: center;
+    margin: 108px;
+    gap: 90px;
+    padding: 30px 60px;
+    border-radius: 18px;
 }
 
 .top-action {
     font-weight: bold;
+    font-size: 24px;
 }
 
 .below.button {
