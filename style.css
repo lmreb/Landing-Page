@@ -31,7 +31,7 @@ a {
     text-decoration: none;
 }
 
-.top-link, a, .light-subtext {
+.top-link, a {
     color: #e5e7eb;
     font-size: 18px;
 }
@@ -164,6 +164,11 @@ a {
 .top-action {
     font-weight: bold;
     font-size: 24px;
+}
+
+.light-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .below.button {
