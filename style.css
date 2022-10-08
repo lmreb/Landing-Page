@@ -9,8 +9,8 @@ body {
 
 .top-header {
     background-color: #1f2937;
-    align-items: center;
-    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
     padding: 18px 108px;
 }
 
@@ -38,6 +38,8 @@ a {
 .top-link {
     display: flex;
     justify-content: space-between;
+    width: 1194px;
+    align-self: center;
 }
 
 .hero {
