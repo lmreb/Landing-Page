@@ -55,6 +55,7 @@ a {
     display: flex;
     flex-direction: column;
     width: 570px;
+    gap: 12px;
 }
 
 .hero-right > img {
