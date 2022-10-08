@@ -18,7 +18,7 @@ body {
 .left-header, .right-header {
     display: flex;
     flex-direction: column;
-    gap: 60px;
+    gap: 108px;
 }
 
 .top-left {
