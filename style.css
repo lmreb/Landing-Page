@@ -42,7 +42,7 @@ a {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 90px 0;
     gap: 54px;
 }
@@ -50,8 +50,7 @@ a {
 .hero-left {
     display: flex;
     flex-direction: column;
-    width: 498px;
-    flex: 1 1 auto;
+    width: 570px;
 }
 
 .hero-right > img {
