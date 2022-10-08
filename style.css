@@ -10,6 +10,8 @@ body {
 .top-header {
     background-color: #1f2937;
     display: flex;
+    justify-content: center;
+    gap: 96px;
     padding: 18px 108px;
 }
 
