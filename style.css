@@ -27,7 +27,9 @@ ul {
     margin: 0;
     display: flex;
     gap: 36px;
+    justify-content: end;
 }
+
 
 a {
     text-decoration: none;
