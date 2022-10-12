@@ -105,12 +105,14 @@ a {
     flex-wrap: wrap;
     width: 180px;
     text-align: center;
+    font-size: 15px;
 }
 
 .info {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 6px;
 }
 
 .info > img {
